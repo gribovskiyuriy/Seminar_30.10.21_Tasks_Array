@@ -1,0 +1,16 @@
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\bin\Debug\net6.0\TaskforDev2.exe
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\bin\Debug\net6.0\TaskforDev2.deps.json
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\bin\Debug\net6.0\TaskforDev2.runtimeconfig.json
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\bin\Debug\net6.0\TaskforDev2.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\bin\Debug\net6.0\ref\TaskforDev2.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\bin\Debug\net6.0\TaskforDev2.pdb
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.GlobalUsings.g.cs
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.csproj.AssemblyReference.cache
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.AssemblyInfoInputs.cache
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.AssemblyInfo.cs
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.csproj.CoreCompileInputs.cache
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\ref\TaskforDev2.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.pdb
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_30.10.21\TaskforDev2\obj\Debug\net6.0\TaskforDev2.genruntimeconfig.cache
