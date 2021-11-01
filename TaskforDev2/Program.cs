@@ -26,7 +26,7 @@ int[] RandomArray(int[] currentArray)
     Console.WriteLine("Введите минимальное число");
     int minValue = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Введите максимальное число");
-    int maxValue = Convert.ToInt32(Console.ReadLine());
+    int maxValue = Convert.ToInt32(Console.ReadLine()) + 1;
     //Перезапись массива на случайные значения
     for (int i = 0; i < currentArray.Length; i++) currentArray[i] = new Random().Next(minValue, maxValue);
     return currentArray;
