@@ -89,7 +89,7 @@ int[] FormatingArray(int[] currentA)
     // Определение следующих чисел в массиве, удовлетворяющих условию.
     while (i < currentA.Length)
     {
-        if ((max < currentA[i]) && (currentA[i]% 2 == 0) && (currentA[i] <= Avg))
+        if ((max < currentA[i]) && (currentA[i] % 2 == 0) && (currentA[i] <= Avg))
         {
             // Если число удовлетворяет всем условиям, то:
             // Оно записывается в max и будет сравниваться со следующими
